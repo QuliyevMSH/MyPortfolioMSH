@@ -43,7 +43,7 @@ const Projects = () => {
           {/* {projects.map((project) => (
             <ProjectCard key={project.title} {...project} />
           ))} */}
-          Tezliklə əlavə olunacaq...
+          Tezliklə əlavə olunacaqlar...
         </div>
       </motion.div>
     </div>
